@@ -14,7 +14,7 @@ import webbrowser
 
 def pass_l(filename):
     pass_file = open(filename, 'r')
-    return pass_file.readlines()
+    return pass_file.read().splitlines()
 
 
 
