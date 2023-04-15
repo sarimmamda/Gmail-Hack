@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 # Coded by Adrijan P.
 # Gmail Hack
-
 import PySimpleGUI as sg
 import pyperclip
 import smtplib
